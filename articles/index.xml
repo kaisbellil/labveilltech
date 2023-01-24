@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on charlola.mode</title>
-    <link>/articles/</link>
+    <link>http://www.kaisbellil.github.io/labveilltech/articles/</link>
     <description>Recent content in Articles on charlola.mode</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://www.kaisbellil.github.io/labveilltech/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Surprise Surprise</title>
-      <link>/articles/article/</link>
+      <link>http://www.kaisbellil.github.io/labveilltech/articles/article/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/articles/article/</guid>
+      <guid>http://www.kaisbellil.github.io/labveilltech/articles/article/</guid>
       <description>Thank you for your support! Hello. If you like t his template, I&amp;rsquo;d be happy to get a coffee donation :)
  </description>
     </item>

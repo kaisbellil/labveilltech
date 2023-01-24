@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/articles/</loc>
+    <loc>http://www.kaisbellil.github.io/labveilltech/articles/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://www.kaisbellil.github.io/labveilltech/categories/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>http://www.kaisbellil.github.io/labveilltech/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>http://www.kaisbellil.github.io/labveilltech/contact/</loc>
   </url><url>
-    <loc>/articles/article/</loc>
+    <loc>http://www.kaisbellil.github.io/labveilltech/articles/article/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://www.kaisbellil.github.io/labveilltech/tags/</loc>
   </url>
 </urlset>
