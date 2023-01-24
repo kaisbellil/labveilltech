@@ -1,5 +1,5 @@
 baseURL: http://www.kaisbellil.github.io/labveilltech/ # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: charlola.mode
+title: kais.bellil
 paginate: 5
 theme: charlolamode
 
@@ -36,7 +36,7 @@ params:
 
     profileMode:
         enabled: true
-        title: Kaïs Bellil
+        title: Kais Bellil
         imageUrl: "/images/profil.jpg"
         imageTitle: my image
         # imageWidth: 120
