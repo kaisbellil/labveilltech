@@ -22,7 +22,7 @@ menu:
 
 
 params:
-    author: Author's Name
+    author: Kais
 
 
     defaultTheme: auto
@@ -37,7 +37,7 @@ params:
     profileMode:
         enabled: true
         title: Kaïs Bellil
-        imageUrl: "/images/profile.png"
+        imageUrl: "/images/profil.jpg"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
@@ -48,12 +48,9 @@ params:
       - articles
 
     socialIcons:
-        - name: buymeacoffee
-          url: "https://ko-fi.com/heycharlola"
-        - name: github
-          url: "https://github.com/charlola"
+  
         - name: linkedin
-          url: "https://www.linkedin.com/in/heycharlola/"
+          url: "https://www.linkedin.com/in/kais-bellil/"
 
       # add more social icons. find more in svg.html file
       # - name: youtube
